@@ -5,7 +5,7 @@
 - I like Java and JavaScript.
 - I strive to develop user-friendly system.
 
-<a href="https://www.linkedin.com/in/beomgu-jeon-b2579327a/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/></a>
+<a href="https://www.linkedin.com/in/beomgu-jeon/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/wjsqjarn/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
 
 
