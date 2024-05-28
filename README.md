@@ -32,7 +32,7 @@
 
 
 ### Work Experience
-> [2021.01-2022.04] Worked on Facial Recognization Team as Android Developer  
+> [2021.01-2022.04] Worked on Facial Recognition Team as Android Developer  
 > [2022.04-2023.05] Worked on Electronic Document Management Team as Backend Developer
 
 ### 📈 GitHub Stats  
