@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/NodeJS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF"/>
 
 
-### Work Experience
+### 🧑‍💻 Work Experience
 > [2021.01-2022.04] Worked on Facial Recognition Team as Android Developer  
 > [2022.04-2023.05] Worked on Electronic Document Management Team as Backend Developer
 
